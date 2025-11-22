@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8295d3f0-026c-4c8e-8fea-eb35ff82fd6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Pertemuan4/src/PetualanganGua'.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="8295d3f0-026c-4c8e-8fea-eb35ff82fd6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="33Ehv4NF5tHgps4ETk8JUPNj0hy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +25,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/jesenn/kotlin-if71-2025-2026-iniJesen"
+    "last_opened_file_path": "D:/Jesen"
   }
 }]]></component>
   <component name="TaskManager">
